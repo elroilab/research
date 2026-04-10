@@ -13,7 +13,7 @@ Official repository for dataset and template code sharing for *HSIFoodInspection
 
 
 ## Dataset Download
-The *HSIFoodInspection* will be uploaded to HuggingFace, and the link will be updated here.
+The *HSIFoodInspection* dataset is shared over HyggingFace, with link https://huggingface.co/datasets/ELROILAB/HSIFoodInspection.
 
 
 ## License Notice
